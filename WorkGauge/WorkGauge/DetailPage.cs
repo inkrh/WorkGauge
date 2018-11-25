@@ -18,6 +18,8 @@ namespace WorkGauge
 
 		public Entry EmailEntry;
 
+        //Scorecard
+
 		public Label CostLabel;
 		public ScoreBox CostScoreBox;
 
@@ -73,41 +75,38 @@ namespace WorkGauge
 			CostLabel = new Label {
 				Text = "Value For Money"
 			};
-					
-
-			CostScoreBox = new ScoreBox ();
-			CostScoreBox.HeightRequest = 42;
-			CostScoreBox.WidthRequest = MaxWidth;
-			CostScoreBox.Value = 0;
 
 
+            CostScoreBox = new ScoreBox()
+            {
+                WidthRequest = Constants.Width - 36,
+                HeightRequest = 42
+            };
 
 
-
-			QualityLabel = new Label {
+            QualityLabel = new Label {
 				Text = "Quality Of Work"
 			};
 
-			QualityScoreBox = new ScoreBox ();
-			QualityScoreBox.HeightRequest = 42;
-			QualityScoreBox.WidthRequest = MaxWidth;
-
-
+			QualityScoreBox = new ScoreBox ()
+            {
+                WidthRequest = Constants.Width - 36,
+                HeightRequest = 42
+            }; 
 
 			TimeLabel = new Label {
 				Text = "Promptness Of Work"
 			};
 
-			TimeScoreBox = new ScoreBox ();
-			TimeScoreBox.HeightRequest = 42;
-			TimeScoreBox.WidthRequest = MaxWidth;
+			TimeScoreBox = new ScoreBox ()
+            {
+                WidthRequest = Constants.Width - 36,
+                HeightRequest = 42
+            };
 
-
-
-			IsBusy = new Button ();
+            IsBusy = new Button ();
 			IsBusy.HorizontalOptions = LayoutOptions.Start;
 			IsBusy.Clicked += (sender, e) => ChangeBusy ();
-	
 
 			NameEntry.TextChanged += (sender, e) => Constants.CurrentItem.Name = NameEntry.Text;
 
@@ -168,7 +167,22 @@ namespace WorkGauge
 			}
 		}
 
-		public void Populate(AnItem item) {
+        protected override void OnSizeAllocated(double width, double height)
+        {
+            base.OnSizeAllocated(width, height);
+            if (width <= 0) return;
+
+            if(null != this.Children) {
+                foreach(var child in this.Children) {
+                    if(child is ScoreBox) {
+                        child.HeightRequest = 42;
+                        child.WidthRequest = Constants.Width - 36;
+                    }
+                }
+            }
+        }
+
+        public void Populate(AnItem item) {
 			if (item == null) {
 				Constants.CurrentItem = new AnItem ();
 				NameEntry.Text = "";

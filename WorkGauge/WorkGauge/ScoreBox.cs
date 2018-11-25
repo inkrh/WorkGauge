@@ -25,12 +25,13 @@ namespace WorkGauge
 			}
 		}
 
-		public ScoreBox ()
-		{
-			this.WidthRequest = Constants.Width-36;
-			this.HeightRequest = 42;
+        private double BoxSize => (this.Width - 24) / 3;
 
-			gbTap = new TapGestureRecognizer ();
+        public ScoreBox ()
+		{
+
+
+            gbTap = new TapGestureRecognizer ();
 			gbTap.Tapped += (object sender, EventArgs e) => {
 				OrganizeBoxes(GreenBox);
 			};
@@ -46,21 +47,21 @@ namespace WorkGauge
 			};
 
 			GreenBox = new BoxView {
-				WidthRequest = this.WidthRequest / 3,
+                WidthRequest = BoxSize,
 				HeightRequest = 36,
 				Color = Color.Green
 			};
 			GreenBox.GestureRecognizers.Add (gbTap);
 
 			YellowBox = new BoxView {
-				WidthRequest = this.WidthRequest / 3,
+                WidthRequest = BoxSize,
 				HeightRequest = 36,
 				Color = Color.Yellow
 			};
 			YellowBox.GestureRecognizers.Add (ybTap);
 
 			RedBox = new BoxView {
-				WidthRequest = this.WidthRequest / 3,
+                WidthRequest = BoxSize,
 				HeightRequest = 36,
 				Color = Color.Red
 			};
@@ -74,13 +75,22 @@ namespace WorkGauge
 
 
 			Orientation = StackOrientation.Horizontal;
-		//	BackgroundColor = Color.Gray;
 
 
 		}
-			
 
-		public void OrganizeBoxes(BoxView which) {
+        protected override void OnSizeAllocated(double width, double height)
+        {
+            base.OnSizeAllocated(width, height);
+            if (width <= 0) return;
+            if (null != GreenBox) GreenBox.WidthRequest = BoxSize;
+            if (null != YellowBox) YellowBox.WidthRequest = BoxSize;
+            if (null != RedBox) RedBox.WidthRequest = BoxSize;
+
+        }
+
+
+        public void OrganizeBoxes(BoxView which) {
 			if (null != which) {
 				if (which == GreenBox) {
 					Value = 2;

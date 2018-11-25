@@ -29,7 +29,7 @@ namespace WorkGauge
 					}},
 			};
 			NameLabel = new Label {
-				Text = thisCH.FirstName + " " + thisCH.LastName,
+                Text = thisCH.Name,
 				VerticalOptions = LayoutOptions.CenterAndExpand
 			};
 
@@ -45,7 +45,7 @@ namespace WorkGauge
 			if (thisCH != null) {
 				Constants.CurrentItem = null;
 				Constants.CurrentItem = new AnItem {
-					Name = thisCH.FirstName + " " + thisCH.LastName,
+                    Name = thisCH.Name,
 					Email = thisCH.Email,
 					Phone = thisCH.Phone
 				};
