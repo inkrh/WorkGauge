@@ -20,16 +20,19 @@ namespace WorkGauge
         {
             InitializeComponent();
 
-        ////}
+            ////}
 
-        ////protected override void OnSizeAllocated(double width, double height) {
+            ////protected override void OnSizeAllocated(double width, double height) {
             ////repeated because Xamarin.Forms
             //Constants.Height = Plugin.DeviceInfo.CrossDevice.Device.ScreenHeight;
             //Constants.Width = Plugin.DeviceInfo.CrossDevice.Device.ScreenWidth;
             //set row heights
-            icon.Height = Constants.TopRowHeight;
-            buttons.Height = Constants.BottomButtonRowHeight;
-            data.Height = Constants.DataRowContentHeight;
+            Constants.TopRowHeight = icon.Height.Value*Constants.Height/100;
+            Constants.DataRowContentHeight = data.Height.Value * Constants.Height / 100;
+            Constants.BottomButtonRowHeight = buttons.Height.Value * Constants.Height / 100;
+            Constants.ResultsTableHeight = Constants.DataRowContentHeight;
+            Debug.WriteLine(Constants.ResultsTableHeight);
+            Debug.WriteLine(Constants.DataRowContentHeight);
 
             Resultscontent.HeightRequest = Constants.DataRowContentHeight;
             Resultscontent.ResultsTable.HeightRequest = Constants.ResultsTableHeight;

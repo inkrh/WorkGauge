@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCk0NO499jOXk8rYPKalSBuTi6KDjoYBO4dhVEtZjjoUqc+e6RUGdXnXL5jEAPBlWnshEgdeBJe1qiVqSON0Mg==",
+  "success": true,
+  "projectFilePath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertsmith/.nuget/packages/acr.core/2.2.0/acr.core.2.2.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/acr.deviceinfo/6.5.0/acr.deviceinfo.6.5.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlite-net-pcl/1.5.231/sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepcl.raw_basic/0.8.6/sqlitepcl.raw_basic.0.8.6.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepclraw.bundle_green/1.1.11/sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepclraw.core/1.1.11/sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/xamarin.forms/3.4.0.1008975/xamarin.forms.3.4.0.1008975.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/xamarin.forms.contacts/1.0.5/xamarin.forms.contacts.1.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SQLitePCL.raw_basic 0.8.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SQLitePCL.raw_basic",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

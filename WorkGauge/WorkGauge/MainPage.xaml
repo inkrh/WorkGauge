@@ -5,18 +5,17 @@ xmlns:local="clr-namespace:WorkGauge;assembly=WorkGauge"
 x:Class="WorkGauge.MainPage" BackgroundColor="White">
 <Grid x:Name="MainGrid" Padding="0,20,0,0">
 <Grid.RowDefinitions>
-<RowDefinition x:Name="icon" />
-<RowDefinition x:Name="buttons"/>
-<RowDefinition x:Name="data"/>
-
+<RowDefinition x:Name="icon" Height="7*" />
+<RowDefinition x:Name="data" Height="80*"/>
+<RowDefinition x:Name="buttons" Height="10*"/>
 </Grid.RowDefinitions>
             <StackLayout Grid.Row="0" HorizontalOptions="End" Padding="0,0,12,0" Orientation="Horizontal">
                 <Image x:Name="Logo" WidthRequest ="48" HeightRequest="48" 
                 Source="WGLogo42.png" Aspect="AspectFit" VerticalOptions="Center"
                 HorizontalOptions="End"/>
             </StackLayout>
-        <StackLayout x:Name="MainSLO" Grid.Row="2"/>
-        <Grid x:Name="ButtonGrid" Grid.Row="1" Padding="0,0,12,20">
+        <StackLayout x:Name="MainSLO" Grid.Row="1"/>
+        <Grid x:Name="ButtonGrid" Grid.Row="2" Padding="0,0,12,20">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>

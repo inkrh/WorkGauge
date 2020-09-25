@@ -156,3 +156,82 @@
 /Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.csproj.CopyComplete
 /Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.exe
 /Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/WorkGauge.iOS.exe
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/WorkGauge.iOS.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Acr.Core.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Plugin.DeviceInfo.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/Plugin.ContactService.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/SQLitePCL.raw.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/WorkGauge.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/bin/iPhoneSimulator/Debug/WorkGauge.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.csprojAssemblyReference.cache
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.csproj.CoreCompileInputs.cache
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.csproj.CopyComplete
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.exe
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/WorkGauge.iOS.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Default-568h@2x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Default-Portrait.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Default-Portrait@2x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Default.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Default@2x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-60@3x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-76.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-76@2x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-Small-40.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-Small-40@3x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/Icon-Small@3x.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/WGLogo42.png
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/

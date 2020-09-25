@@ -18,15 +18,15 @@ namespace WorkGauge
 
             Debug.WriteLine("**" + Constants.Height + "x" + Constants.Width);
             //icon + toppadding
-            Constants.TopRowHeight = 48;
-            //buttons
-            Constants.BottomButtonRowHeight = 48;
-            //main data (results table + searchbar and padding)
-            Constants.DataRowContentHeight =
-                Constants.Height - (Constants.TopRowHeight + Constants.BottomButtonRowHeight);
-            //Results tables 
-            Constants.ResultsTableHeight = Constants.DataRowContentHeight - 24;
-
+            //Constants.TopRowHeight = 48;
+            ////buttons
+            //Constants.BottomButtonRowHeight = 48;
+            ////main data (results table + searchbar and padding)
+            //Constants.DataRowContentHeight =
+            //    Constants.Height - (Constants.TopRowHeight + Constants.BottomButtonRowHeight);
+            ////Results tables 
+            //Constants.ResultsTableHeight = Constants.DataRowContentHeight - 24;
+            //Debug.WriteLine(Constants.ResultsTableHeight);
 
             // The root page of your application
            

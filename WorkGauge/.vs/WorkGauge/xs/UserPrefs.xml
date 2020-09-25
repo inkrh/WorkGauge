@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2BF0BE2E-B37B-4F88-8B57-A00C54C0D2A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkGauge.iOS/SearchBarRenderer.cs">
+    <Files>
+      <File FileName="WorkGauge/MainPage.xaml" Line="17" Column="30" />
+      <File FileName="WorkGauge/MainPage.xaml.cs" Line="68" Column="41" />
+      <File FileName="WorkGauge/Constants.cs" Line="19" Column="24" />
+      <File FileName="WorkGauge/App.xaml.cs" Line="30" Column="1" />
+      <File FileName="WorkGauge/DetailPage.cs" Line="156" Column="44" />
+      <File FileName="WorkGauge/WorkGaugeHome.cs" Line="58" Column="15" />
+      <File FileName="WorkGauge.iOS/SearchBarRenderer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkGauge" expanded="True">
+            <Node name="WorkGauge" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="WorkGauge.iOS" expanded="True">
+              <Node name="SearchBarRenderer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkGauge.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.46E9ECCA-B82D-43D1-AFBB-888592CF78E8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

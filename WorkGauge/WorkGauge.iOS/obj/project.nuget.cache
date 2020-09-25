@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCCxCqW86lDD/n9ScLssFZHCtJuHzOSMpthDe94ukrXCJ5ZZbPCS8DqqpwmX+vFdzcCdz+/VqI+vaMGdFvaJgQ==",
+  "success": true,
+  "projectFilePath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertsmith/.nuget/packages/acr.core/2.2.0/acr.core.2.2.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/acr.deviceinfo/6.5.0/acr.deviceinfo.6.5.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlite-net-pcl/1.5.231/sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepcl.raw_basic/0.8.6/sqlitepcl.raw_basic.0.8.6.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepclraw.bundle_green/1.1.11/sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepclraw.core/1.1.11/sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.1.11/sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/xamarin.forms/3.4.0.1008975/xamarin.forms.3.4.0.1008975.nupkg.sha512",
+    "/Users/robertsmith/.nuget/packages/xamarin.forms.contacts/1.0.5/xamarin.forms.contacts.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

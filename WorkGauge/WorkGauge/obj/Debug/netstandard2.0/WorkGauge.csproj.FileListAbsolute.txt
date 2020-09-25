@@ -20,3 +20,15 @@
 /Users/hendenr/GIT/workgauge/Source/WorkGauge/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/hendenr/GIT/workgauge/Source/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.dll
 /Users/hendenr/GIT/workgauge/Source/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/bin/Debug/netstandard2.0/WorkGauge.deps.json
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/bin/Debug/netstandard2.0/WorkGauge.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/bin/Debug/netstandard2.0/WorkGauge.pdb
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.csprojAssemblyReference.cache
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.AssemblyInfoInputs.cache
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.AssemblyInfo.cs
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.csproj.CoreCompileInputs.cache
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.dll
+/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/Debug/netstandard2.0/WorkGauge.pdb

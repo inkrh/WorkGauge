@@ -1051,10 +1051,11 @@
       ]
     },
     "Acr.DeviceInfo/6.5.0": {
-      "sha512": "8JNqgt0+eQncmA2wLDjIg19Ej43DbANlVAhsUE5uG2YKBPr2lM1QZ2/ph56GI1JDEvAO//B9HI8oUMZ30QDuiw==",
+      "sha512": "wX0XKCJann65QGWaIxJwWW843zJB+HsE3ETkkeCHgBXZGWLf0JqINVkPxUh28PmX5UVwllBpdNcnrE+7NsyoBQ==",
       "type": "package",
       "path": "acr.deviceinfo/6.5.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "acr.deviceinfo.6.5.0.nupkg.sha512",
         "acr.deviceinfo.nuspec",
@@ -1068,10 +1069,11 @@
       ]
     },
     "sqlite-net-pcl/1.5.231": {
-      "sha512": "Sy+K+Wm2RZ+4b1uLHsaXvfR92Or71XxPXa2Id6msSOVkZKh+c+PUk/HQOAgxyhm3lhvysL0mK6Gd6mI69NJ9AA==",
+      "sha512": "B9jScvqkishSMkpa9Mc4Q85LTHxRTzcUXZx9EQqgrvdz7MFEDHfpiPcKdjy1qXHdmHttEXfY4h6gu4FlgWP2Sw==",
       "type": "package",
       "path": "sqlite-net-pcl/1.5.231",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.1/SQLite-net.deps.json",
         "lib/netstandard1.1/SQLite-net.dll",
@@ -1083,10 +1085,11 @@
       ]
     },
     "SQLitePCL.raw_basic/0.8.6": {
-      "sha512": "0b7o0llpxOGT/Y/PhvRP+BtLCTmQ54BhC3bffml/fefb8L8e79CwfPJLAL9Y7R/v0guEgBZRpQuNpUvcXMhoUA==",
+      "sha512": "A/OuwM8d8urVNrYxU4m+ROrhDLyY1nqLFDJnpQbhrlGknKo5/cON1iBU82JuJVOkZv400WcIfX4uO38Ac/1yEQ==",
       "type": "package",
       "path": "sqlitepcl.raw_basic/0.8.6",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/MonoAndroid/SQLitePCL.raw_basic.targets",
         "build/MonoAndroid/pinvoke_packaged_sqlcipher/anycpu/SQLitePCL.raw.dll",
@@ -1167,10 +1170,11 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "HOD1/Jg9VZtrOyPUCD9reQOXHq4r+fNe24qw5nghuiUcKch+9jePeRpt6MqGGUFhg2KW89KvE/RFlhpbfF8pKA==",
+      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.11",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/wp8/SQLitePCLRaw.bundle_green.targets",
         "build/wp80/arm/SQLitePCLRaw.batteries_green.dll",
@@ -1213,10 +1217,11 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "bWiOso10I1vDuc5rbzT69LQT0+oXfYnoqx8vKJ8zim/CJ4ytSd20QNTE/FE0dvWEgXGnvDp7gGJFu6PeWnhx9g==",
+      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.11",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid/SQLitePCLRaw.core.dll",
         "lib/Xamarin.Mac20/SQLitePCLRaw.core.dll",
@@ -1238,10 +1243,11 @@
       ]
     },
     "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
-      "sha512": "pgdrdeXCK6l5yLrRK9JjU0a6rVNJN64IKICKtDRI4zXc2Vv/4aBZNJfoivv/AFHaq/KJKR/1vAHI6mJTbeK8GA==",
+      "sha512": "hWk/vgFthsTedjorVFNErd5xk0x0UtlYr/ndmDUYhAcA9Y9g0IJXBMn1Z2QYsLMlvE6Qj5yVvjfkUOARhXezQw==",
       "type": "package",
       "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.11",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll",
         "sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
@@ -1249,10 +1255,11 @@
       ]
     },
     "System.Reactive/4.0.0": {
-      "sha512": "l7AZOWqr++qiIppQxNvUsy24u73Qm81vIv6buMSv+KSesatxoi5mVBmgkYjFMhGAfz2C7fh+QdlskKOAVvrL0A==",
+      "sha512": "yaVAxT2Yl28p9+DupGwj2oPbIOYZUQimOQ+n7N7vML2oofIRj9BmcfD7DHc6FLrNah65EigOgG6U9VnwWEyz5g==",
       "type": "package",
       "path": "system.reactive/4.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net46/System.Reactive.dll",
         "lib/net46/System.Reactive.xml",
@@ -1269,10 +1276,11 @@
       ]
     },
     "System.Runtime.InteropServices.WindowsRuntime/4.3.0": {
-      "sha512": "BB4Y4G5QH6jPlnI4l8gpD0QxbaUFUUz5478TB2fxLB4pgZbJSKDLQfDaReCbopPPJB5LkwskLo86mXBq2KzpHg==",
+      "sha512": "J4GUi3xZQLUBasNwZnjrffN8i5wpHrBtZoLG+OhRyGo/+YunMRWWtwoMDlUAIdmX0uRfpHIBDSV6zyr3yf00TA==",
       "type": "package",
       "path": "system.runtime.interopservices.windowsruntime/4.3.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -1329,10 +1337,11 @@
       ]
     },
     "Xamarin.Forms/3.4.0.1008975": {
-      "sha512": "036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
+      "sha512": "tM9syeev45u92OFENGjq+Zw8WiEwLJFiXe317XpL9SY2RRk9sm2fc1lDVjzwz0da+5ZP5fi24NAPsPQdxBdMwQ==",
       "type": "package",
       "path": "xamarin.forms/3.4.0.1008975",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",
@@ -1507,19 +1516,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/hendenr/.nuget/packages/": {}
+    "/Users/robertsmith/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/WorkGauge.iOS.csproj",
+      "projectUniqueName": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj",
       "projectName": "WorkGauge.iOS",
-      "projectPath": "/Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/WorkGauge.iOS.csproj",
-      "packagesPath": "/Users/hendenr/.nuget/packages/",
-      "outputPath": "/Users/hendenr/GIT/workgauge/Source/WorkGauge.iOS/obj",
+      "projectPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj",
+      "packagesPath": "/Users/robertsmith/.nuget/packages/",
+      "outputPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/hendenr/.config/NuGet/NuGet.Config"
+        "/Users/robertsmith/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1530,8 +1540,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/hendenr/GIT/workgauge/Source/WorkGauge/WorkGauge.csproj": {
-              "projectPath": "/Users/hendenr/GIT/workgauge/Source/WorkGauge/WorkGauge.csproj"
+            "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj": {
+              "projectPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj"
             }
           }
         }
@@ -1540,25 +1550,25 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "3.4.0.1008975"
-          },
-          "Xamarin.Forms.Contacts": {
-            "target": "Package",
-            "version": "1.0.5"
-          },
           "Acr.DeviceInfo": {
             "target": "Package",
-            "version": "6.5.0"
+            "version": "[6.5.0, )"
           },
           "SQLitePCL.raw_basic": {
             "target": "Package",
-            "version": "0.8.6"
+            "version": "[0.8.6, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[3.4.0.1008975, )"
+          },
+          "Xamarin.Forms.Contacts": {
+            "target": "Package",
+            "version": "[1.0.5, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",
-            "version": "1.5.231"
+            "version": "[1.5.231, )"
           }
         }
       }

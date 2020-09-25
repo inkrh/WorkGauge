@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj",
+        "projectName": "WorkGauge.iOS",
+        "projectPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/WorkGauge.iOS.csproj",
+        "packagesPath": "/Users/robertsmith/.nuget/packages/",
+        "outputPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/robertsmith/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj": {
+                "projectPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Acr.DeviceInfo": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "SQLitePCL.raw_basic": {
+              "target": "Package",
+              "version": "[0.8.6, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.4.0.1008975, )"
+            },
+            "Xamarin.Forms.Contacts": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj",
+        "projectName": "WorkGauge",
+        "projectPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/WorkGauge.csproj",
+        "packagesPath": "/Users/robertsmith/.nuget/packages/",
+        "outputPath": "/Users/robertsmith/GIT/workgauge/WorkGauge/WorkGauge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertsmith/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Acr.DeviceInfo": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SQLitePCL.raw_basic": {
+              "target": "Package",
+              "version": "[0.8.6, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.4.0.1008975, )"
+            },
+            "Xamarin.Forms.Contacts": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
